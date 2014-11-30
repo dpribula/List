@@ -12,7 +12,7 @@ int main()
 	ListItem<int>* it=NULL;
 	ListItem<int>* it2 = NULL;
 	x.push_back(1);
-	it2=x.push_back(2);
+	it2=x.push_back(2); 
 	it=x.push_back(3);
 	x.push_back(4);
 	x.push_back(5);
